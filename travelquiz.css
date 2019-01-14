@@ -1,0 +1,27 @@
+body {
+	width: 600px;
+}
+
+.mainheading {
+	text-align: center;
+}
+
+#maintable {
+	width: 500px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#txtquestion {
+	width: 500px;
+}
+
+.choiceclass {
+	width: 400px;
+}
+
+.rbalign {
+	/*text-align: right;*/
+	margin-left: 60px;
+}
